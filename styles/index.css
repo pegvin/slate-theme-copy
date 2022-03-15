@@ -172,27 +172,37 @@ blockquote {
 	border-left: 3px solid #bbb;
 }
 
+hr {
+	margin: 2rem 0;
+}
+
 pre {
 	max-height: 500px;
 	overflow: auto;
 	margin: 20px 0;
-	padding: 10px;
+	padding: 10px 0;
 	background-color: #333;
 	border-radius: 5px;
+	padding: 10px;
+}
+
+pre a, code a {
+	color: #189bff;
 }
 
 pre, code {
 	color: #f1f1f1;
 	font-weight: 700;
 	font-family: 'Ubuntu Mono', monospace;
-	background: #25292b;
+	background: #33393b;
 	background: linear-gradient(82deg, #33393b 0%, #333 100%);
 }
 
 p code {
+	margin: 3px 0;
 	display: inline-block;
 	border-radius: 5px;
-	padding: 5px;
+	padding: 1px 5px;
 }
 
 @media screen and (max-width: 480px) {
