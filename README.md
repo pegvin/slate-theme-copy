@@ -5,6 +5,8 @@ A Simple Copy Of Slate Theme
 
 ## Preview
 
+[Live Preview](https://devloprr.github.io/slate-theme-copy/)
+
 On A 1920x1080 Display:
 
 ![image](https://user-images.githubusercontent.com/75035219/158376073-56ca14cd-0ee4-4107-be65-6ef3ac85aea6.png)
